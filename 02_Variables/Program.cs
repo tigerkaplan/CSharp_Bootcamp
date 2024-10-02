@@ -70,14 +70,45 @@ namespace _02_Variables
             // no turkish charachter 
             // " string 'char 
 
-            char symbol;
-            symbol = 'A';
+            //char symbol;
+            //symbol = 'A';
 
-            Console.WriteLine(symbol);
+            //Console.WriteLine(symbol);
 
             #endregion
-            Console.Read();
+            //Console.Read();
 
+
+            #region Data Entry by Keyboard - String Variables
+            //Console.WriteLine("**** C# Airline Passenger Information ****");
+            //Console.WriteLine();
+
+            //string passengerName, passengerSurname, passengerDistrict, passengerCity, passengerAge, passengerIdendityNumber;
+
+            //Console.Write("Passenger Name: ");
+            //passengerName = Console.ReadLine();
+
+            //Console.Write("Passenger Surname: ");
+            //passengerSurname = Console.ReadLine();
+                     
+            //Console.Write("Passenger District:");
+            //passengerDistrict = Console.ReadLine();
+
+            //Console.Write("Passenger City: ");
+            //passengerCity = Console.ReadLine();
+
+            //Console.Write("Passenger Age: ");
+            //passengerAge = Console.ReadLine();
+
+            //Console.Write("Passenger ID: ");
+            //passengerIdendityNumber = Console.ReadLine();
+
+            //Console.WriteLine("----------------------------------");
+            //Console.WriteLine( "Passenger ID:" + passengerIdendityNumber + " " + "- Passenger Name Surname:" + passengerName + " "+ passengerSurname + " " + passengerDistrict + " / " + passengerCity + " " + passengerAge );
+
+            #endregion
+
+            Console.Read();
         }
 
     }
