@@ -153,6 +153,15 @@ namespace _02_Variables
             //Console.WriteLine(" Average of the result: " + result);
 
             #endregion
+
+            #region Character inputs from the keyboard
+            //char gender;
+            //Console.Write("Please choose a gender: ");
+            //gender = char.Parse(Console.ReadLine());
+
+            //Console.WriteLine ("Gender:" +  gender);
+
+            #endregion
             Console.Read();
         }
 
