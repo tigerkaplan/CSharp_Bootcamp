@@ -74,12 +74,10 @@ namespace _02_Variables
             //symbol = 'A';
 
             //Console.WriteLine(symbol);
-
-            #endregion
             //Console.Read();
+            #endregion
 
-
-            #region Data Entry by Keyboard - String Variables
+            #region Data inputs from the keyboard and string variables
             //Console.WriteLine("**** C# Airline Passenger Information ****");
             //Console.WriteLine();
 
@@ -90,7 +88,7 @@ namespace _02_Variables
 
             //Console.Write("Passenger Surname: ");
             //passengerSurname = Console.ReadLine();
-                     
+
             //Console.Write("Passenger District:");
             //passengerDistrict = Console.ReadLine();
 
@@ -108,6 +106,34 @@ namespace _02_Variables
 
             #endregion
 
+            #region Integer inputs and conversions from the keyboard
+
+            //int shoePrice, computerPrice, chairPrice, tvPrice;
+            //shoePrice = 1000;
+            //computerPrice = 20000;
+            //chairPrice = 5000;
+            //tvPrice = 12000;
+
+            //int shoeCount, computerCount, chairCount, tvCount;
+
+            //Console.Write("Please enter the number of pairs you purchased:");
+            //shoeCount = int.Parse(Console.ReadLine());
+
+            //Console.Write("Please enter the number of computers you purchased:");
+            //computerCount = int.Parse(Console.ReadLine());
+
+            //Console.Write("Please enter the number of chair you purchased:");
+            //chairCount = int.Parse(Console.ReadLine());
+
+            //Console.Write("Please enter the number of tv you purchased:");
+            //tvCount = int.Parse(Console.ReadLine());
+
+            //int totalPrice = shoeCount * shoePrice + computerCount * computerPrice + chairCount * chairPrice + tvCount * tvPrice;
+
+            //Console.WriteLine();
+            //Console.WriteLine("Total amount you need to pay:" + totalPrice + "TL");
+
+            #endregion
             Console.Read();
         }
 
