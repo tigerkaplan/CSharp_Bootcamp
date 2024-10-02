@@ -134,6 +134,25 @@ namespace _02_Variables
             //Console.WriteLine("Total amount you need to pay:" + totalPrice + "TL");
 
             #endregion
+
+            #region Decimal number operations from the keyboard
+
+            //double exam1, exam2, exam3, result;
+
+            //Console.Write("Please enter the score for the 1st exam:");
+            //exam1 = double.Parse(Console.ReadLine());
+
+            //Console.Write("Please enter the score for the 2nd exam:");
+            //exam2 = double.Parse(Console.ReadLine());
+
+            //Console.Write("Please enter the score for the 3rd exam:");
+            //exam3 = double.Parse(Console.ReadLine());
+
+            //result = (exam1 + exam2 + exam3) / 3;
+            //Console.WriteLine();
+            //Console.WriteLine(" Average of the result: " + result);
+
+            #endregion
             Console.Read();
         }
 
