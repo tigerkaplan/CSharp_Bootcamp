@@ -282,9 +282,41 @@ namespace _03_MakingDecisions
 
             #endregion
 
-            #region Calculator
+            #region Swith Case Calculator
+            //int number1, number2, result;
+            //char symbol;
 
+            //Console.Write("Input the 1st number: ");
+            //number1 = int.Parse(Console.ReadLine());
 
+            //Console.Write("Input the 2nd number: ");
+            //number2 = int.Parse(Console.ReadLine());
+
+            //Console.Write("Please, input the operator: ");
+            //symbol = char.Parse(Console.ReadLine());
+
+            //switch (symbol)
+            //{
+            //    case '+':
+            //        result = number1 + number2;
+            //        Console.WriteLine("Total: " + result);
+            //        break;
+            //    case '-':
+            //        result = number1 - number2;
+            //        Console.WriteLine("Difference: " + result);
+            //        break;
+            //    case '/':
+            //        result = number1 / number2;
+            //        Console.WriteLine("Dividence: " + result);
+            //        break;
+            //    case '*':
+            //        result = number1 * number2;
+            //        Console.WriteLine("Times: " + result);
+            //        break;
+            //    default:
+            //        Console.WriteLine("Please enter correct operator");
+            //        break;
+            //}
 
             #endregion
 
