@@ -46,7 +46,119 @@ namespace _04_Loops
 
             #region Decision structures with For Loops
 
+            //for (int i = 1; i <= 100; i++)
+            //{
+            //    if (i % 5 == 0)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //}
+
+
+            //// Ardisik sayilarin toplanmasi
+            //int totalValue = 0;
+
+            //for (int i = 1; i <= 10; i++)
+            //{
+            //    totalValue += i;
+            //}
+
+            //Console.WriteLine(totalValue);
+
+            // 1- 20 arasi cift sayilarin toplami
+
+            //int totalValue = 0;
+
+            //    for (int i = 1; i <= 20; i++)
+
+            //    {
+            //        if (i % 2 == 0)
+            //    {
+            //        totalValue += i;
+            //        Console.WriteLine(i);
+            //    }
+            //}
+            //Console.WriteLine("--------------");
+            //Console.WriteLine(totalValue);
+
+            //// 7 ye tam bolunenlerin sayisi (1-50 arasi)
+            //int count = 0;
+
+            //for (int i = 1; i <= 50; i++) 
+            //{ 
+            //if (i % 7 == 0)
+            //    {
+            //        count++;
+            //    }
+            //}
+            //Console.WriteLine(count);
+
+
+            //// Bacteria kendini 2 ye bolerek cogalir. 
+            //// 24 saat sonunda ne kadar cogalir
+
+            //int bacterium = 1;
+            //for (int i = 1; i <= 24; i++)
+            //{
+            //    bacterium *= 2;
+            //    Console.WriteLine(i + ".hour: " + bacterium);
+            //}
+
             #endregion
+
+            #region While Loop
+
+            //While (Condition)
+            // {
+            // Islemler
+            // }
+
+            //int i = 1;
+            //while (i <= 10)
+            //{
+            //    Console.WriteLine("Hi Loops");
+            //    i++;
+            //}
+
+            //Console.WriteLine();
+
+
+
+
+            #endregion
+
+            #region Decision Structures with While Loops
+
+            //int i = 1;
+            //while (i <= 10)
+            //{
+            //if (i % 3 == 0)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //i++;
+            //}
+
+            //1 -10 sayilarin toplami
+            //int i = 1;
+            //int sum = 0;
+
+            //while (i <= 10)
+            //{
+            //    sum += i;
+            //    i++;
+            //}
+            //Console.WriteLine(sum);
+
+
+
+            #endregion
+
+            #region Example
+
+            #endregion
+
+
 
             Console.Read();
         }
