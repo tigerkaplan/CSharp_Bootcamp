@@ -155,6 +155,21 @@ namespace _04_Loops
             #endregion
 
             #region Example
+            //// Klayyeden girilen 3 basamakli sayinin basamaklarinin toplami
+
+            ////456
+            //Console.Write("Please, input the number: ");
+            //int number = int.Parse(Console.ReadLine());
+            //int ones, tens, hundreds;
+            //int sum;
+
+            //ones = number % 10;
+            //tens = (number % 100) / 10;
+            //hundreds = number / 100;  // 4.56 --> 4
+
+            //Console.WriteLine(ones + "-" +tens + "-" + hundreds);
+            //sum = ones + tens + hundreds;
+            //Console.WriteLine(sum);
 
             #endregion
 
